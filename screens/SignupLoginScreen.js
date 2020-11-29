@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     buttonText:{
       color:'#ffff',
       fontWeight:'200',
-      fontSize:20
+      fontSize:21
      },
       buttonContainer:{
        flex:1,
